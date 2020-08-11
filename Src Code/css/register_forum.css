@@ -1,0 +1,38 @@
+#login_form{
+	border:solid #cccccc 3px;
+	width: 50%;
+	border-radius:5px;
+	margin:100px auto;
+	margin-left: 10%;
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 1px;
+	padding-left: 30px;
+}
+#btn{
+	color: #fff;
+	background: #bbbbbb;
+	padding: 5px;
+	margin-left: 30%;
+	margin-top: 5%;
+}
+#input{
+	margin:10px 0px 10px 0px;
+	height:20px;
+	width:90%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 3px solid cccccc;
+	
+}
+#input2{
+	margin:10px 0px 10px 0px;
+	height:20px;
+	width:90%;
+	padding: 60px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 3px solid cccccc;
+	
+}

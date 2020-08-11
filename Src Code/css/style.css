@@ -1,0 +1,59 @@
+#content{
+	max-width: 1000px;
+	margin:auto ;
+	background-color:#f2f2f2;
+    height: 100%;
+	}
+
+#head_title{
+	background-color : #cccccc;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	
+	
+}
+#head_menu{
+	max-width: 1000px;
+	margin:auto ;
+	background-color: #bbbbbb;
+ 
+}
+#body{
+	
+   
+}
+#side_page_menu{
+	width: 20%;
+    height: 200px;
+    float: left;
+	
+}
+#side_menu_table{
+	
+}
+#side_menu_td{
+	
+	padding-left: 10px;
+	padding-right: 10px;
+	
+  
+
+}
+#main_page{
+	margin-left: 200px;
+	margin-left: 27%;
+    height: 200px;
+	padding-right: 20px;
+	
+}
+
+#footer{
+	 position:absolute;
+   width:1000px;
+   bottom: -40px;
+   color: black;
+   background-color: #bbbbbb;
+}
+
+
