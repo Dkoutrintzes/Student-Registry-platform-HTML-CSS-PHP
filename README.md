@@ -1,1 +1,1 @@
-# Student-Registry-platform-HTML-CSS-PHP
+Student Registry platform HTML CSS PHP
